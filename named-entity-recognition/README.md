@@ -9,14 +9,14 @@ maxent_ne_chunker
 
 From the relation extraction code function in NLTK, it lists the following tags for the ACE tagset:
 
-LOCATION
-ORGANIZATION
-PERSON
-DURATION
-DATE
-CARDINAL
-PERCENT
-MONEY
-MEASURE
-FACILITY
-GPE
+	LOCATION
+	ORGANIZATION
+	PERSON
+	DURATION
+	DATE
+	CARDINAL
+	PERCENT
+	MONEY
+	MEASURE
+	FACILITY
+	GPE
