@@ -2,7 +2,7 @@ import time
 import nltk
 
 sentence = 'Elon Musk is sending his Tesla Roadster to an orbit around Mars'
-
+nltk.download()
 try:
     tokenized_sentence = nltk.word_tokenize(sentence)
     tagged_sentence = nltk.pos_tag(tokenized_sentence)
